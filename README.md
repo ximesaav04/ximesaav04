@@ -1,6 +1,5 @@
 ## Hola, soy Ximena 👋
 
-===
 
 Data Analyst enfocada en **Product & Customer Analytics** — funnels de conversión, A/B testing, comportamiento del cliente y retención. Antes de datos, pasé 1.5 años en operaciones hoteleras (NH Collection) haciendo auditoría nocturna y validación de datos transaccionales en tiempo real — la base de mi rigor analítico hoy. Actualmente en búsqueda de roles de **Product Analyst / Customer Analyst**, remoto.
 
