@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Ximena 👋
 
 ===
 
@@ -8,9 +8,13 @@ Data Analyst enfocada en **Product & Customer Analytics** — funnels de convers
 
 ### 🔧 Lenguajes y herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,git,github)](https://skillicons.dev)
-
-*+ Tableau, Power BI y Excel (sin ícono disponible en esta librería)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
